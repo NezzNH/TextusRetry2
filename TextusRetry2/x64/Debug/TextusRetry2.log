@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\nezzn\Desktop\Textus\TextusRetry2\TextusRetry2\main.cpp(24,54): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\nezzn\Desktop\Textus\TextusRetry2\TextusRetry2\main.cpp(64,38): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\nezzn\Desktop\Textus\TextusRetry2\TextusRetry2\main.cpp(133,60): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\nezzn\Desktop\Textus\TextusRetry2\TextusRetry2\main.cpp(137,41): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\nezzn\Desktop\Textus\TextusRetry2\TextusRetry2\main.cpp(54,6): warning C4101: 'distanceFromLineBeginning': unreferenced local variable
+  TextusRetry2.vcxproj -> C:\Users\nezzn\Desktop\Textus\TextusRetry2\x64\Debug\TextusRetry2.exe
